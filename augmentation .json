@@ -14,7 +14,6 @@
     "Navbar",
     "SearchBox",
     "Selectbox",
-    "BreadcrumbCom",
     "PageTitle",
     "Contact",
     "DiscountBanner",
@@ -86,18 +85,6 @@
         }
       },
       "children_orientation_description": "dropdowns, list items, button  --  all arranged in a flex format"
-    },
-    "BreadcrumbCom": {
-      "count": 1,
-      "location": "below navbar",
-      "children": {
-        "breadcrumb": {
-          "count": 1,
-          "location": "left side of page",
-          "description": "a path for current page"
-        }
-      },
-      "children_orientation_description": "a breadcrumb showing path for current page  --  all arranged in a flex format"
     },
     "PageTitle": {
       "count": 1,
@@ -218,6 +205,6 @@
   },
   "functionality": {},
   "sizing_updates": [],
-  "screen_and_layout_augmentations": []
+  "screen_and_layout_augmentations": ["deleted BreadcrumbCom"]
 
 }
