@@ -136,11 +136,6 @@
             }
           },
         "children_orientation_description": "cards --- all arranged in a flex format"
-        },
-        "form":{
-          "count":1,
-          "location":"below the pageTitle, beside of GridList",
-          "description": "form with four input fields and one submit button"
         }
       },
       "children_orientation_description": " cards --- all arranged in a grid format"
@@ -218,6 +213,6 @@
   },
   "functionality": {},
   "sizing_updates": [],
-  "screen_and_layout_augmentations": []
+  "screen_and_layout_augmentations": ["deleted the form"]
 
 }
