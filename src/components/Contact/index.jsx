@@ -26,37 +26,6 @@ export default function Contact() {
                 Fill the form below or write us .We will help you as soon as
                 possible.
               </p>
-
-              <div className="xl:flex xl:space-x-[30px] mb-[30px]">
-                <div className="xl:w-1/2 w-full  h-[196px] flex flex-col item justify-center bg-[#FFEAE5] p-5">
-                  <div className="flex justify-center mb-3 ">
-                  <ThinPeople/>
-                  </div>
-                  <p className="text-[22px] text-black leading-[30px] text-center font-semibold">
-                    Phone
-                  </p>
-                  <p className="text-[15px] text-black leading-[30px] text-center">
-                    +(323) 9847 3847 383
-                  </p>
-                  <p className="text-[15px] text-black leading-[30px] text-center">
-                    +(434) 5466 5467 443
-                  </p>
-                </div>
-                <div className="xl:w-1/2 w-full h-[196px] flex flex-col item justify-center bg-[#D3EFFF] p-5">
-                  <div className="flex justify-center mb-3 ">
-                  <ThinPeople/>
-                  </div>
-                  <p className="text-[22px] text-black leading-[30px] text-center font-semibold">
-                    Email
-                  </p>
-                  <p className="text-[15px] text-black leading-[30px] text-center">
-                    Demoemail@gmail.com
-                  </p>
-                  <p className="text-[15px] text-black leading-[30px] text-center">
-                    rafiqulislamsuvobd@gmail.com
-                  </p>
-                </div>
-              </div>
               <div className="p-5 flex flex-col justify-between w-full bg-[#E7F2EC]">
                 <div className="flex space-x-5">
                 <ThinPeople/>
