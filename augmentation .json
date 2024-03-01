@@ -218,6 +218,6 @@
   },
   "functionality": {},
   "sizing_updates": [],
-  "screen_and_layout_augmentations": []
+  "screen_and_layout_augmentations": ["moved the email input field to below the message textarea"]
 
 }
