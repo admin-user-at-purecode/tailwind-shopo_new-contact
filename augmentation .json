@@ -218,6 +218,6 @@
   },
   "functionality": {},
   "sizing_updates": [],
-  "screen_and_layout_augmentations": []
+  "screen_and_layout_augmentations": ["address map card is moved to top of phone and email cards"]
 
 }
