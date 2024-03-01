@@ -91,7 +91,15 @@ export default function Contact() {
                 <div className="mb-4">
                   <InputCom
                     label="Frist Name*"
-                    placeholder="Demo Name"
+                    placeholder="first name"
+                    name="first_name"
+                    inputClasses="h-[50px]"
+                  />
+                </div>
+                <div className="mb-4">
+                  <InputCom
+                    label="Last Name*"
+                    placeholder="last name"
                     name="first_name"
                     inputClasses="h-[50px]"
                   />
