@@ -7,7 +7,7 @@ export default function PageTitle({ title, breadcrumb = [] }) {
         <div className="mb-5">
           <BreadcrumbCom paths={breadcrumb} />
         </div>
-        <div className="flex justify-center">
+        <div className="flex">
           <h1 className="text-4xl font-semibold text-qblack">{title}</h1>
         </div>
       </div>
