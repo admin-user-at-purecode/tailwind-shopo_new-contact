@@ -130,9 +130,9 @@
               "description":"text"
             },
             "contactCard":{
-              "count":3,
+              "count":2,
               "location":"below the heading text",
-              "description":"cards with  mobile number, email, address location details"
+              "description":"cards with  mobile details, address location details"
             }
           },
         "children_orientation_description": "cards --- all arranged in a flex format"
@@ -218,6 +218,6 @@
   },
   "functionality": {},
   "sizing_updates": [],
-  "screen_and_layout_augmentations": []
+  "screen_and_layout_augmentations": ["deleted the email details card"]
 
 }

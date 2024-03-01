@@ -28,7 +28,7 @@ export default function Contact() {
               </p>
 
               <div className="xl:flex xl:space-x-[30px] mb-[30px]">
-                <div className="xl:w-1/2 w-full  h-[196px] flex flex-col item justify-center bg-[#FFEAE5] p-5">
+                <div className=" w-full  h-[196px] flex flex-col item justify-center bg-[#FFEAE5] p-5">
                   <div className="flex justify-center mb-3 ">
                   <ThinPeople/>
                   </div>
@@ -40,20 +40,6 @@ export default function Contact() {
                   </p>
                   <p className="text-[15px] text-black leading-[30px] text-center">
                     +(434) 5466 5467 443
-                  </p>
-                </div>
-                <div className="xl:w-1/2 w-full h-[196px] flex flex-col item justify-center bg-[#D3EFFF] p-5">
-                  <div className="flex justify-center mb-3 ">
-                  <ThinPeople/>
-                  </div>
-                  <p className="text-[22px] text-black leading-[30px] text-center font-semibold">
-                    Email
-                  </p>
-                  <p className="text-[15px] text-black leading-[30px] text-center">
-                    Demoemail@gmail.com
-                  </p>
-                  <p className="text-[15px] text-black leading-[30px] text-center">
-                    rafiqulislamsuvobd@gmail.com
                   </p>
                 </div>
               </div>
